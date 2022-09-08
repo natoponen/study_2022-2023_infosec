@@ -1,16 +1,12 @@
 ---
 ## Front matter
-title: "Шаблон отчёта по лабораторной работе"
-subtitle: "Простейший вариант"
-author: "Дмитрий Сергеевич Кулябов"
+title: "Информационная безопасность"
+subtitle: "Отчет по лабораторной работе №1"
+author: "Топонен Никита Андреевич"
 
 ## Generic otions
 lang: ru-RU
 toc-title: "Содержание"
-
-## Bibliography
-bibliography: bib/cite.bib
-csl: pandoc/csl/gost-r-7-0-5-2008-numeric.csl
 
 ## Pdf output format
 toc: true # Table of contents
