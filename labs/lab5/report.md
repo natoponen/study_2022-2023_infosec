@@ -70,7 +70,7 @@ header-includes:
 
 Вошел в систему от имени пользователя guest и создал программу simpleid.c
 
-![Отключение SELinux](img/3.png){#fig:003}
+![Создание программы simpleid.c](img/3.png){#fig:003}
 
 ```c
 #include <sys/types.h>
